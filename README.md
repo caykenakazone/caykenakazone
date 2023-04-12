@@ -6,7 +6,7 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
 
 ### 🛠 Ferramentas e Tecnologias
 
-<div align="center">
+
   <div style="display: flex;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -18,7 +18,7 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
   </div>
-</div>
+
 
           
           
