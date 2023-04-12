@@ -10,6 +10,9 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
         <td>JavaScript</td>
         <td>CSS3</td>
         <td>HTML5</td>
+        <td>FIGMA</td>
+        <td>My SQL</td>
+        <td>Java</td>
     </tr>
     <tr>
         <td>FIGMA</td>
@@ -24,7 +27,7 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
       <tr>
         <td>Visual Studio Code</td>
         <td>IntelliJ</td>
-        <td>Canva>
+        <td>Canva</td>
     </tr>
     
 </table>
