@@ -5,7 +5,9 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
 - 3º Período de Sistemas para Internet no IFTM - Campus Uberlândia Centro
 
 ### Ferramentas e Tecnologias
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+          
 <!--
 **caykenakazone/caykenakazone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
