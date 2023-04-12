@@ -5,7 +5,23 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
 - 3º Período de Sistemas para Internet no IFTM - Campus Uberlândia Centro
 
 ### 🛠 Ferramentas e Tecnologias
-
+<table border="1">
+    <tr>
+        <td>JavaScript</td>
+        <td>CSS3</td>
+        <td>HTML5</td>
+    </tr>
+    <tr>
+        <td>FIGMA</td>
+        <td>My SQL</td>
+        <td>Java</td>
+    </tr>
+  <tr>
+        <td>Spring Framework</td>
+        <td>React</td>
+        <td>Bootstrap</td>
+    </tr>
+</table>
 
   <div style="display: flex;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
