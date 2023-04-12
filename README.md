@@ -7,7 +7,7 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
 ### 🛠 Ferramentas e Tecnologias
 <table border="1">
     <tr>
-        <td>JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> </td>
+        <td>JavaScript</td>
         <td>CSS3</td>
         <td>HTML5</td>
     </tr>
@@ -35,7 +35,13 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
   </div>
 
+## Contatos:
 
+<div>
+<a href="https://www.instagram.com/cayke_nakazone/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "carloscaykebn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carloscaykebn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
           
           
 <!--
