@@ -7,7 +7,7 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
 ### 🛠 Ferramentas e Tecnologias
 <table border="1">
     <tr>
-        <td>JavaScript</td>
+        <td>JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> </td>
         <td>CSS3</td>
         <td>HTML5</td>
     </tr>
