@@ -35,7 +35,7 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
   </div>
 
-## Contatos:
+### 📞 Contatos:
 
 <div>
 <a href="https://www.instagram.com/cayke_nakazone/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -43,6 +43,7 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
 <a href="https://www.linkedin.com/in/carloscaykebn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+### 📊 Estatísticas
 <div>
 <a href="https://github.com/caykenakazone">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caykenakazone&layout=compact&langs_count=7&theme=dracula"/>
