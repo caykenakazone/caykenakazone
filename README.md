@@ -21,6 +21,12 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
         <td>React</td>
         <td>Bootstrap</td>
     </tr>
+      <tr>
+        <td>Visual Studio Code</td>
+        <td>IntelliJ</td>
+        <td>Canva>
+    </tr>
+    
 </table>
 
   <div style="display: flex;">
@@ -33,6 +39,11 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>    
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
+          
+          
   </div>
 
 ## 📞 Contatos:
