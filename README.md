@@ -1,5 +1,11 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Carlos Cayke and my nickname is "caykenakazone"!
 
+Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez mais sobre novas tecnologias e melhorar as que eu tenho.
+- 3º Período de Sistemas para Internet no IFTM - Campus Uberlândia Centro
+
+### Ferramentas e Tecnologias
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <!--
 **caykenakazone/caykenakazone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
