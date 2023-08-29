@@ -26,6 +26,11 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
         <td>IntelliJ</td>
         <td>Canva</td>
     </tr>
+    <tr>
+        <td>MongoDB</td>
+        <td>Angular</td>
+        <td></td>
+    </tr>
     
 </table>
 
@@ -42,7 +47,10 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>    
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg](https://www.svgrepo.com/download/331488/mongodb.svg)" width="40" height="40"/>
+          <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_lQQ8qY3CrYMgYecc63KR0dhzjtdyA5mUYHAF5uwPA&s" width="40" height="40"/>
           
+         
           
   </div>
 
