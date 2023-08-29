@@ -48,7 +48,7 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
       <img src="https://www.svgrepo.com/download/331488/mongodb.svg" width="40" height="40"/>
-          <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_lQQ8qY3CrYMgYecc63KR0dhzjtdyA5mUYHAF5uwPA&s" width="40" height="40"/>
+          <img src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png" width="40" height="40"/>
           
          
           
