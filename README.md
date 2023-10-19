@@ -2,7 +2,7 @@
 ## My name is Carlos Cayke and my nickname is "caykenakazone"!
 
 Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez mais sobre novas tecnologias e melhorar as que eu tenho.
-- 3º Período de Sistemas para Internet no IFTM - Campus Uberlândia Centro
+- 4º Período de Sistemas para Internet no IFTM - Campus Uberlândia Centro
 
 ## 🛠 Ferramentas e Tecnologias
 <table border="2">
