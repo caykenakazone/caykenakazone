@@ -7,21 +7,21 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
 ## 🛠 Ferramentas e Tecnologias
 <table border="2">
     <tr>
-        <td>JavaScript</td>
-        <td>CSS3</td>
-        <td>HTML5</td>
-    </tr>
-    <tr>
         <td>Java</td>
         <td>Angular</td>
         <td>Spring Framework</td>
     </tr>
-  <tr>
+    <tr>
         <td>VS Code</td>
         <td>React</td>
         <td>Bootstrap</td>
     </tr>
     <tr>
+        <td>JavaScript</td>
+        <td>CSS3</td>
+        <td>HTML5</td>
+    </tr>
+      <tr>
         <td>MongoDB</td>
         <td>My SQL</td>
         <td>Neo4J</td>
