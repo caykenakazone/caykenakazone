@@ -12,26 +12,20 @@ Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez m
         <td>HTML5</td>
     </tr>
     <tr>
-        <td>FIGMA</td>
-        <td>My SQL</td>
         <td>Java</td>
+        <td>Angular</td>
+        <td>Spring Framework</td>
     </tr>
   <tr>
-        <td>Spring Framework</td>
+        <td>VS Code</td>
         <td>React</td>
         <td>Bootstrap</td>
     </tr>
-      <tr>
-        <td>Visual Studio Code</td>
-        <td>IntelliJ</td>
-        <td>Canva</td>
-    </tr>
     <tr>
         <td>MongoDB</td>
-        <td>Angular</td>
-        <td></td>
-    </tr>
-    
+        <td>My SQL</td>
+        <td>Neo4J</td>
+    </tr>    
 </table>
 
   <div style="display: flex;">
