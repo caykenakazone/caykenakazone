@@ -1,8 +1,16 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Carlos Cayke and my nickname is "caykenakazone"!
 
-Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez mais sobre novas tecnologias e melhorar as que eu tenho.
-- 4º Período de Sistemas para Internet no IFTM - Campus Uberlândia Centro
+<table>
+    <tr>
+        Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez mais sobre novas tecnologias e melhorar as que eu tenho.
+        - 4º Período de Sistemas para Internet no IFTM - Campus Uberlândia Centro
+    </tr>
+    <tr>
+        <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+    </tr>
+<table>
+
 
 ## 🛠 Ferramentas e Tecnologias
 <table border="2">
