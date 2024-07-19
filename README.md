@@ -35,6 +35,11 @@
         <td>MongoDB</td>
         <td>My SQL</td>
         <td>Neo4J</td>
+    </tr>   
+    <tr>
+        <td>Firebase</td>
+        <td>Mobx</td>
+        <td></td>
     </tr>    
 </table>
 
@@ -50,7 +55,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
           <img src="https://www.svgrepo.com/download/331488/mongodb.svg" width="40" height="40"/>
           <img src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png" width="40"/>
-          <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Fo-google-firebase%2F61474&psig=AOvVaw159KG9HJbgPZQJMeGq5VqV&ust=1721501798712000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCaiIrks4cDFQAAAAAdAAAAABAq" width="40"/>          
+             
   </div>
 
 ## 📊 Estatísticas
