@@ -9,7 +9,7 @@
     Atualmente no 4º Período de Sistemas para Internet no IFTM - Campus Uberlândia Centro
     </tr>
     <tr>
-        <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+        <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="200px" width="200px" align="right">
     </tr>
 <table>
 
