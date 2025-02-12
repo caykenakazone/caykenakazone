@@ -6,7 +6,7 @@
         Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez mais sobre novas tecnologias e melhorar as que eu tenho.
     </tr>
     <tr>
-    Atualmente no 4º Período de Sistemas para Internet no IFTM - Campus Uberlândia Centro
+    Atualmente no 5º Período de Sistemas para Internet no IFTM - Campus Uberlândia Centro
     </tr>
     <tr></tr>
     <tr>
