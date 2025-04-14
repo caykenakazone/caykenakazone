@@ -21,11 +21,30 @@ Eu acredito que a evolução nunca para, e estou sempre em busca de melhorar min
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge">
 </div>
 
 ## 📈 GitHub Stats
 
 ![Cayke GitHub stats](https://github-readme-stats.vercel.app/api?username=caykenakazone&show_icons=true&theme=merko)
+
+
+## Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+
+
+***Estágiario de desenvolvimento*** \
+**Ncast** • Full-time \
+Linguagens & Tecnologias: `React`, `CSS`, `Node.js`, `Typescript`, `Javascript`, `Firebase`\
+<br/>
+
+***Desenvolvedor Fullstack (Jr)*** \
+[**Numih**](https://www.linkedin.com/company/numih/?originalSubdomain=br) • Full-time \
+Linguagens & Tecnologias: `Java`, `Kotlin`, `React`,`Tailwind`,`Typescript`,`Mongo`,`Graphql`\
+<br/>
+
 ## 📞 Contatos:
 
 <div>
