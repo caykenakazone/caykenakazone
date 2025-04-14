@@ -26,7 +26,6 @@ Atualmente estou no 5º Período de Sistemas para Internet no IFTM - Campus Uber
 ## 📈 GitHub Stats
 
 ![Carlos Cayke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caykenakazone&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
-
 ## 📞 Contatos:
 
 <div>
