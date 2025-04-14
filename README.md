@@ -5,8 +5,6 @@ Busco novas experiências, tanto pessoais quanto profissionais. Estou sempre apr
 
 Atualmente estou no 5º Período de Sistemas para Internet no IFTM - Campus Uberlândia Centro.
 
-![Computer Illustration](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
-
 ## 🛠 Ferramentas e Tecnologias
 <div>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
