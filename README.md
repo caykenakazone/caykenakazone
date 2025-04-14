@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Carlos Cayke and my nickname is "caykenakazone"!
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <table>
     <tr>
         Busco novas experiências, tanto pessoais e profissionais. Aprendendo cada vez mais sobre novas tecnologias e melhorar as que eu tenho.
