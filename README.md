@@ -23,12 +23,6 @@ Eu acredito que a evolução nunca para, e estou sempre em busca de melhorar min
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge">
 </div>
-
-## 📈 GitHub Stats
-
-![Cayke GitHub stats](https://github-readme-stats.vercel.app/api?username=caykenakazone&show_icons=true&theme=merko)
-
-
 ## Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
@@ -51,3 +45,9 @@ Linguagens & Tecnologias: `Java`, `Kotlin`, `React`,`Tailwind`,`Typescript`,`Mon
     <a href="mailto:carloscaykebn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
     <a href="https://www.linkedin.com/in/carloscaykebn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>   
 </div>
+
+
+## 📈 GitHub Stats
+
+![Cayke GitHub stats](https://github-readme-stats.vercel.app/api?username=caykenakazone&show_icons=true&theme=merko)
+
