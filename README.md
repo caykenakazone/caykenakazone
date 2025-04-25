@@ -23,7 +23,8 @@ Eu acredito que a evolução nunca para, e estou sempre em busca de melhorar min
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge">
 </div>
-## Experiência de trabalho
+
+# Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
@@ -34,7 +35,7 @@ Linguagens & Tecnologias: `React`, `CSS`, `Node.js`, `Typescript`, `Javascript`,
 
 ***Desenvolvedor Fullstack (Jr)*** \
 [**Numih**](https://www.linkedin.com/company/numih/?originalSubdomain=br) • Full-time \
-Linguagens & Tecnologias: `Java`, `Kotlin`, `React`,`Tailwind`,`Typescript`,`Mongo`,`Graphql`\
+Linguagens & Tecnologias: `Java`, `Kotlin`, `React`,`Tailwind`,`Typescript`,`MongoDB`,`Graphql`\
 <br/>
 
 ## 📞 Contatos:
