@@ -27,8 +27,6 @@ Eu acredito que a evolução nunca para, e estou sempre em busca de melhorar min
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-
-
 ***Estágiario de desenvolvimento*** \
 **Ncast** • Full-time \
 Linguagens & Tecnologias: `React`, `CSS`, `Node.js`, `Typescript`, `Javascript`, `Firebase`\
