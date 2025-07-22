@@ -8,7 +8,7 @@ Sou um apaixonado por tecnologia, sempre em busca de novos desafios e oportunida
 Eu acredito que a evolução nunca para, e estou sempre em busca de melhorar minhas habilidades e expandir meu repertório. Seja no desenvolvimento de sistemas, na construção de aplicativos web ou na criação de interfaces responsivas, meu objetivo é sempre entregar o melhor e evoluir junto com as necessidades do mercado.
 
 ## 🛠 Ferramentas e Tecnologias
-<div align="center">
+<div align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,spring,aws,nodejs,css,ts,js,tailwind&theme=light" />
   </a>
