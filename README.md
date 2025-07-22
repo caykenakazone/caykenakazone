@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github
 ## My name is Carlos Cayke!
 
-Sou um apaixonado por tecnologia, sempre em busca de novos desafios e oportunidades para crescer, tanto pessoal quanto profissionalmente. Atualmente, estou no 5º período do curso de Sistemas para Internet no IFTM - Campus Uberlândia Centro, onde tenho me aprofundado cada vez mais em tecnologias inovadoras.
+Sou apaixonado por tecnologia e estou sempre em busca de novos desafios que me permitam evoluir tanto pessoal quanto profissionalmente. Sou formado em Sistemas para Internet pelo IFTM – Campus Uberlândia Centro, onde tive a oportunidade de me aprofundar em tecnologias inovadoras e desenvolver uma base sólida para atuar no mercado.
 
 🔍 O que me motiva? Aprender novas ferramentas, explorar diferentes tecnologias e aplicar esse conhecimento para criar soluções práticas e impactantes.
 
