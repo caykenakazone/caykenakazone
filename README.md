@@ -10,7 +10,7 @@ Eu acredito que a evolução nunca para, e estou sempre em busca de melhorar min
 ## 🛠 Ferramentas e Tecnologias
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,aws,css,docker,ts,js,tailwind,nodejs,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,aws,css,docker,ts,js,tailwind,nodejs&theme=light" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,postman,neovim,firebase,mongodb,mysql,git,graphql&theme=light" />
