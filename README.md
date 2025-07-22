@@ -1,11 +1,11 @@
 # 👋 Hello! Welcome to my Github
 ## My name is Carlos Cayke!
 
-Sou apaixonado por tecnologia e estou sempre em busca de novos desafios que me permitam evoluir tanto pessoal quanto profissionalmente. Sou formado em Sistemas para Internet pelo IFTM – Campus Uberlândia Centro, onde tive a oportunidade de me aprofundar em tecnologias inovadoras e desenvolver uma base sólida para atuar no mercado.
+  Sou apaixonado por tecnologia e estou sempre em busca de novos desafios que me permitam evoluir tanto pessoal quanto profissionalmente. Sou formado em Sistemas para Internet pelo IFTM – Campus Uberlândia Centro, onde tive a oportunidade de me aprofundar em tecnologias inovadoras e desenvolver uma base sólida para atuar no mercado.
 
 🔍 O que me motiva? Aprender novas ferramentas, explorar diferentes tecnologias e aplicar esse conhecimento para criar soluções práticas e impactantes.
 
-Eu acredito que a evolução nunca para, e estou sempre em busca de melhorar minhas habilidades e expandir meu repertório. Seja no desenvolvimento de sistemas, na construção de aplicativos web ou na criação de interfaces responsivas, meu objetivo é sempre entregar o melhor e evoluir junto com as necessidades do mercado.
+  Eu acredito que a evolução nunca para, e estou sempre em busca de melhorar minhas habilidades e expandir meu repertório. Seja no desenvolvimento de sistemas, na construção de aplicativos web ou na criação de interfaces responsivas, meu objetivo é sempre entregar o melhor e evoluir junto com as necessidades do mercado.
 
 ## 🛠 Ferramentas e Tecnologias
 <div align="start">
