@@ -42,5 +42,4 @@ Linguagens & Tecnologias: `Java`, `Kotlin`, `React`,`Tailwind`,`Typescript`,`Mon
 
 ## 📈 GitHub Stats
 
-![Cayke GitHub stats](https://github-readme-stats.vercel.app/api?username=caykenakazone&show_icons=true&theme=merko)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Cayke Nakazone?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
