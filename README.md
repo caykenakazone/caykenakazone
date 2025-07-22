@@ -35,10 +35,10 @@ Linguagens & Tecnologias: `Java`, `Kotlin`, `React`,`Tailwind`,`Typescript`,`Mon
 ## 📞 Contatos:
 
 <div>
-    <a href="mailto:carloscaykebn@gmail.com">
+    <a href="mailto:carloscaykebn@gmail.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
     </a>
-    <a href="https://www.linkedin.com/in/carloscaykebn/">
+    <a href="https://www.linkedin.com/in/carloscaykebn/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
     </a>   
 </div>
