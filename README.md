@@ -10,7 +10,7 @@
 ## 🛠 Ferramentas e Tecnologias
 <div align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,aws,nodejs,css,ts,js,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,golang,spring,aws,nodejs,css,ts,js,tailwind&theme=light" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,graphql,postman,neovim,firebase,mongodb,mysql,git,figma&theme=light" />
