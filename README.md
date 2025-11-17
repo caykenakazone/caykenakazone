@@ -29,7 +29,7 @@ Linguagens & Tecnologias: `React`, `CSS`, `Node.js`, `Typescript`, `Javascript`,
 
 ***Desenvolvedor Fullstack (Jr)*** \
 [**Numih**](https://www.linkedin.com/company/numih/?originalSubdomain=br) • Full-time \
-Linguagens & Tecnologias: `Java`, `Kotlin`, `React`,`Tailwind`,`Typescript`,`MongoDB`,`Graphql`,`AWS`\
+Linguagens & Tecnologias: `Kotlin`, `Golang`, `React`,`Tailwind`,`Typescript`,`MongoDB`,`Graphql`,`AWS`\
 <br/>
 
 ## 📞 Contatos:
