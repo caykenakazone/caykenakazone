@@ -33,7 +33,7 @@ Linguagens & Tecnologias: `Kotlin`, `Golang`, `React`,`Tailwind`,`Typescript`,`M
 <br/>
 
 ***Desenvolvedor Fullstack*** \
-[**Abix LTDA**](https://abix.com.br/?gad_source=1&gad_campaignid=20521291885&gbraid=0AAAAAD_h-gtg2mGncQ4reG0MVvLIreS30&gclid=Cj0KCQiA4pvMBhDYARIsAGfgwvydSEafGrw2KrElG_JK9joQFjTuNvzYL17DdvKN4fQShxaC3KXnQXEaApmVEALw_wcB)) • Full-time \
+[**Abix LTDA**](https://abix.com.br/?gad_source=1&gad_campaignid=20521291885&gbraid=0AAAAAD_h-gtg2mGncQ4reG0MVvLIreS30&gclid=Cj0KCQiA4pvMBhDYARIsAGfgwvydSEafGrw2KrElG_JK9joQFjTuNvzYL17DdvKN4fQShxaC3KXnQXEaApmVEALw_wcB) • Full-time \
 Linguagens & Tecnologias: `Node`, `Next`, `Typescript`,`Tailwind`,`Directus`,`Express`\
 <br/>
 
